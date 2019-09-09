@@ -1,1 +1,1 @@
-![alt text](images/start_screen.png)
+<img src="images/game_screen.png" height="400">
